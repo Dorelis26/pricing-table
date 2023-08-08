@@ -1,4 +1,4 @@
-![Screenshot 2023-08-08 084617](https://github.com/Dorelis26/pricing-table/assets/115403319/05333563-6105-432f-835c-efaadbac2960)
+
 # pricing-table
 an HTML and CSS pricing table
 
